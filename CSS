@@ -1,0 +1,41 @@
+nav {
+    display: inline; 
+  }
+  
+  
+  body {
+    font-family: 'Roboto';
+  }
+  body{
+    background-color: rgb(131, 110, 168);
+  }
+  .nav{
+    font-style: italic;
+    font-weight: 100px;
+  }
+  .p{
+    font-style: oblique;
+    color: aliceblue;
+    font-size: medium;
+  }
+ .h{
+    font-style: inherit;
+    color: aliceblue;
+ }
+ #a{
+    font-style: italic;
+    font-size: larger;
+    color: rgb(251, 250, 250);
+    margin-left: 100px;
+
+ }
+ #cv{
+    color: aliceblue;
+ }
+ #contact{
+    color: aliceblue;
+ }
+ #f{
+    margin-left: 600px;
+    margin-top: 50px;
+ }
